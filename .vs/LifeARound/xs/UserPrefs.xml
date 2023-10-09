@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2154211C-70CE-6996-8136-CFF537E5F011}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PanelAnimator.cs">
+    <Files>
+      <File FileName="Assets/MyUI/Textcontroller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Dice/-Read-Me-.txt" />
+      <File FileName="Assets/Dice/Scripts/Dice/Die_d6.cs" />
+      <File FileName="Assets/Dice/Scripts/Dice/DiceRoller.cs" />
+      <File FileName="Assets/PanelMaterials/PanelTriggerAnimation.cs" />
+      <File FileName="Assets/MyUI/PanelController.cs" />
+      <File FileName="Assets/PlayAnimationOnTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/PanelAnimator.cs" Line="39" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LifeARound" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Dice" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Dice" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="MyUI" expanded="True" />
+              <Node name="PanelMaterials" expanded="True" />
+              <Node name="unity-chan!" expanded="True" />
+              <Node name="PanelAnimator.cs" selected="True" />
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="70905a61-9894-4f9d-a5dc-529d17dacb13" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
